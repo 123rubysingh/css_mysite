@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+}
+.row{
+  background-color: pink;
+  margin: 0 70px;
+}
+.red{
+  background-color: red;
+  width:25%;
+
+margin: 0 auto 0 auto;
+display: inline-grid;
+
+
+
+}
+.green{
+  background-color: green;
+display: inline-grid;
+  width:48%;
+margin: 0 auto 0 auto;
+  /* position: absolute;
+  left: 200px;
+  top:200px; */
+
+}
+.yellow{
+  background-color: yellow;
+  display: inline-grid;
+margin: 0 auto 0 auto;
+  width:25%;
+  /* position: absolute;
+  left: 400px;
+  top:400px; */
+
+
+}
